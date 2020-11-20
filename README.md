@@ -1,5 +1,18 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
+Noticed css was already done so only change font type to my choice. but noticed the identifiers were all present so used these through out the additional code.
+
+In the html I have added the columns for time rows, so there was a row for each section of time including save button for notes of todo tasks or appointments.
+
+searched on google in jquery, javascript, moment for some clues on setting the columns for the time colour blocks 
+
+do commits after each section is worked on with notes of changes or additions.
+
+had to revise with colum how to do the local storage and apply it to this homework. So I have taken more time on learning this in my tutor session & it has now been added to this homework. 
+
+Using console.log I am finding this to be very usefull when doing the homework or any task as it does define problem areas so I am able to fix errors. when building code it is the best way to check sections of coding.
+
+
 ## Your Task
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.

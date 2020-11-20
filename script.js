@@ -3,7 +3,7 @@ $(document).ready(function () {
   var now = moment();
   displayCurrentDateAndTime.textContent = now;
   var presentHour = moment().hours();
-
+//check if time colour changes for present & future time
   function timeCheckPastPresentFuture() {
     $(".time-block").each(function () {
       var timeOfCurrentBlock = parseInt($(this).attr("id"));
@@ -28,9 +28,9 @@ $(document).ready(function () {
 
     localStorage.setItem(time, userInput);
   });
-
+//add rest of var task for all time elements
  var eightTask = localStorage.getItem("8");
  $("#eightTask").val(eightTask)
 
-
+//need a clear button or command for clearing days tasks??
 });
