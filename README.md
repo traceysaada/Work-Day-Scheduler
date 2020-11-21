@@ -12,6 +12,9 @@ had to revise with colum how to do the local storage and apply it to this homewo
 
 Using console.log I am finding this to be very usefull when doing the homework or any task as it does define problem areas so I am able to fix errors. when building code it is the best way to check sections of coding.
 
+i think this is missing a delete aspect to cancel out appointment or task should the user wish to change an appointment & resave. would of like to add this to the application.
+
+on test had a favicon.ico page loading problem, so had to google what the problem was as it was giving a 404 problem on page. googled how to add to html & added at the bottom of my html coding & the console cleared of error. 
 
 ## Your Task
 

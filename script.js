@@ -31,6 +31,22 @@ $(document).ready(function () {
 //add rest of var task for all time elements
  var eightTask = localStorage.getItem("8");
  $("#eightTask").val(eightTask)
+ var nineTask = localStorage.getItem("9");
+ $("#nineTask").val(nineTask)
+ var tenTask = localStorage.getItem("10");
+ $("#tenTask").val(tenTask)
+ var elevenTask = localStorage.getItem("11");
+ $("#elevenTask").val(elevenTask)
+ var twelveTask = localStorage.getItem("12");
+ $("#twelveTask").val(twelveTask)
+ var oneTask = localStorage.getItem("1");
+ $("#oneTask").val(oneTask)
+ var twoTask = localStorage.getItem("2");
+ $("#twoTask").val(twoTask)
+ var twoTask = localStorage.getItem("3");
+ $("#threeTask").val(threeTask)
+ var fourTask = localStorage.getItem("4");
+ $("#fourTask").val(fourTask)
 
-//need a clear button or command for clearing days tasks??
+
 });
