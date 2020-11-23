@@ -43,7 +43,7 @@ $(document).ready(function () {
  $("#oneTask").val(oneTask)
  var twoTask = localStorage.getItem("2");
  $("#twoTask").val(twoTask)
- var twoTask = localStorage.getItem("3");
+ var threeTask = localStorage.getItem("3");
  $("#threeTask").val(threeTask)
  var fourTask = localStorage.getItem("4");
  $("#fourTask").val(fourTask)
